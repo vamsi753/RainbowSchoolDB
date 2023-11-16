@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "RainbowSchoolDB", "RainbowSchoolDB\RainbowSchoolDB.ssmssqlproj", "{C3FBBC69-6ECE-49DC-95A4-336C8B35AD2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FBBC69-6ECE-49DC-95A4-336C8B35AD2A}.Default|Default.ActiveCfg = Default
+		{DAFB08A1-2513-4680-AA6D-59921A08DCE4}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D37D58F-58C5-4019-B1EE-F8F101CAD2F7}
+	EndGlobalSection
+EndGlobal
